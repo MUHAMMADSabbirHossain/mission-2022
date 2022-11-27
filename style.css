@@ -7,7 +7,7 @@ body {
 }
 
 .half-width {
-    padding: 10px 5% 10px 5%;
+    padding: 10px 10% 10px 10%;
     width: 50%;
 }
 
@@ -16,7 +16,18 @@ body {
 }
 
 h1 {
-    font-size: 60px;
+    font-size: 65px;
+}
+
+h2 {
+    font-size: 55px;
+    font-weight: 700;
+    text-align: center;
+    color: rgb(0, 0, 46);
+}
+
+h3 {
+    font-size: 35px;
 }
 
 p {
@@ -34,4 +45,20 @@ p {
     padding: 10px 25px;
     border-radius: 5px;
 
+}
+
+.my-mission {
+    padding: 0 5% 0 5%;
+}
+
+.my-mission-element {
+    width: 30%;
+    padding: 3% 2% 3% 2%;
+    border-radius: 20px;
+    margin: 2%;
+    text-align: justify;
+}
+
+.my-mission-element img {
+    width: 60%;
 }
