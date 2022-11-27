@@ -32,6 +32,7 @@ h3 {
 
 p {
     font-size: 20px;
+    text-align: justify;
 }
 
 .color-orange {
@@ -44,11 +45,11 @@ p {
     background-color: rgb(228, 87, 62);
     padding: 10px 25px;
     border-radius: 5px;
-
 }
 
 .my-mission {
-    padding: 0 5% 0 5%;
+    padding: 0 10% 0 10%;
+    margin-bottom: 100px;
 }
 
 .my-mission-element {
@@ -56,9 +57,21 @@ p {
     padding: 3% 2% 3% 2%;
     border-radius: 20px;
     margin: 2%;
-    text-align: justify;
 }
 
 .my-mission-element img {
     width: 60%;
+}
+
+.develop {
+    margin: 5px 5% 5px 5%;
+    background-image: url(mission-2022-main/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: left;
+}
+
+.one-third-width img {
+    width: 70%;
+    margin-left: 15%;
 }
