@@ -37,18 +37,18 @@ p {
 
 .focused {
     border-left: 6px solid;
-    border-color: tomato;
+    border-color: rgb(159, 247, 255);
     border-radius: 4px;
 }
 
 .color-orange {
-    color: orange;
+    color: royalblue;
 }
 
 .link-button {
     text-decoration: none;
     color: white;
-    background-color: rgb(228, 87, 62);
+    background-color: hsl(196, 100%, 67%);
     padding: 10px 25px;
     border-radius: 5px;
 }
