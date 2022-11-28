@@ -35,6 +35,12 @@ p {
     text-align: justify;
 }
 
+.focused {
+    border-left: 6px solid;
+    border-color: tomato;
+    border-radius: 4px;
+}
+
 .color-orange {
     color: orange;
 }
